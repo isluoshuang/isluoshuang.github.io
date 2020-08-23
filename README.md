@@ -1,2 +1,2 @@
-# Richard's Blog
-Welcome to Richard's World
+# Double's Blog
+Welcome to Double's World
